@@ -7,3 +7,4 @@
 
 📖 You'll also find my **[blog](https://nev.so/blog)**, which is a medium for me to learn new (or solidify existing) concepts while teaching others in a concise, fun, and unique way. Check it out if you're looking to improve your knowledge on a wide range of programming topics! All of the posts are also available [on GitHub](https://github.com/Nevvulo/blog).
 
+I'm working on various projects, but if you're looking for an awesome bot for your Discord or Fluxer server, check out Nevi! https://nevi.nev.so
